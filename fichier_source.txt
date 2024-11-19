@@ -1,0 +1,1 @@
+g++ main.cpp Chiffrement.cpp UtilFichier.cpp -o Chiffrement && ./Chiffrement
